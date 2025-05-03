@@ -16,6 +16,7 @@
 - 🔭 I’m currently working on **AI-Based Research Assistant for EDA Analysis**
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**, **RAG**, and **Ensemble Retreivers**
 - 💬 Ask me about **AI, ML, PyTorch, and Data Pipelines**
+- 🌐 Portfolio: [velprakash](https://velprakash.netlify.app)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/velprakash-s)
 - ⚡ Personal fact: I prefer **Quality over Quantity**
 
@@ -63,6 +64,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/velprakash-s" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:velprakash1315@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://velprakash.netlify.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
