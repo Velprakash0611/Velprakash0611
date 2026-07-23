@@ -19,7 +19,7 @@
 
 - I currently work as a **Data Analyst**, turning raw data into clear, actionable insights
 - Alongside that, I'm actively building skills in **AI & Machine Learning**, with a growing focus on **probabilistic and Bayesian modeling**
-- Currently working on an **AI-Based Research Assistant for EDA Analysis**
+- Currently working with **Bayesian Inference** for **Parameter estimation**
 - Currently learning **Natural Language Processing (NLP)**, **RAG pipelines**, **Ensemble Retrievers**, and **Bayesian inference with NumPyro/Stan**
 - Exploring probabilistic programming, Markov Chains, and differentiable programming with **JAX** and **Diffrax**
 - Ask me about **Data Analysis, AI, ML, Bayesian Statistics, or Data Pipelines**
