@@ -1,5 +1,9 @@
 <!-- Stylish GitHub Profile Page -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7FF&height=120&section=header&animation=fadeIn" alt="Header Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi, I'm VELPRAKASH</h1>
 <h3 align="center">
   Data Analyst | Aspiring AI/ML Engineer | Turning Data into Decisions
